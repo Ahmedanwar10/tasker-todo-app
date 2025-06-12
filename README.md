@@ -1,16 +1,8 @@
-# tasker
+# Tasker – To-Do List App
 
-A new Flutter project.
+Tasker is a minimalist and responsive to-do list app developed with Flutter. It allows users to easily add, remove, and mark tasks as completed to stay productive and organized.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Clean UI  
+✅ Responsive Design  
+✅ Add / Delete / Complete Tasks  
+✅ Built with Flutter
